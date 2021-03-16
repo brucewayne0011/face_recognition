@@ -78,7 +78,7 @@ See [this example](https://github.com/ageitgey/face_recognition/blob/master/exam
 
 ### Installation Options:
 
-#### Installing on Mac or Linux
+#### Installing on Linux
 
 First, make sure you have dlib already installed with Python bindings:
 
